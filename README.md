@@ -64,30 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/naphatwx">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=naphatwx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
-</a>
-<a href="https://github.com/naphatwx">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naphatwx&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
-</a>
-
-<br/>
-
-<a href="https://github.com/naphatwx">
-  <img src="https://streak-stats.demolab.com?user=naphatwx&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
-</a>
-
-
-</div>
-
----
-
-<div align="center">
-
 ### 📫 Let's connect
 
 Have a project idea or just want to say hi? Reach me at **naphat.watt2002@gmail.com**
