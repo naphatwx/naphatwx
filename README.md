@@ -5,8 +5,7 @@
 <p>
   <a href="https://portfolio-2-two-gules.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_my_site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:naphat.watt2002@gmail.com"><img src="https://img.shields.io/badge/Email-naphat.watt2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://medium.com/@naphatwx"><img src="https://img.shields.io/badge/Medium-%40naphatwx-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://instagram.com/naphatwx"><img src="https://img.shields.io/badge/Instagram-%40naphatwx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/naphat-wattanarattanakul-6334b6295/"><img src="https://img.shields.io/badge/LinkedIn-Naphat_Wattanarattanakul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=naphatwx&style=for-the-badge&color=58A6FF" alt="Profile views" />
@@ -20,7 +19,6 @@
 - 💼 Software engineer based in Thailand, working on full-stack web applications
 - 🔭 Currently building web apps with **Next.js** on the front end, **Go** on the back end, and **PostgreSQL** for data
 - 🌐 See my work on my [portfolio](https://portfolio-2-two-gules.vercel.app/)
-- ✍️ I write about what I learn on [Medium](https://medium.com/@naphatwx)
 - 🌱 Always learning better ways to design systems, APIs, and developer tooling
 - 💬 Ask me about Next.js, Go, TypeScript, REST APIs, PostgreSQL, and Docker
 
@@ -108,7 +106,7 @@
 
 ### 📫 Let's connect
 
-Have a project idea or just want to say hi? Reach me at **naphat.watt2002@gmail.com** or visit my [portfolio](https://portfolio-2-two-gules.vercel.app/).
+Have a project idea or just want to say hi? Reach me by [email](mailto:naphat.watt2002@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/naphat-wattanarattanakul-6334b6295/), or visit my [portfolio](https://portfolio-2-two-gules.vercel.app/).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=100&section=footer" alt="Footer" />
 
