@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Naphat;Software+Engineer+from+Thailand+%F0%9F%87%B9%F0%9F%87%AD;Building+web+apps+end+to+end" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Naphat;Software+Engineer+from+Thailand+%F0%9F%87%B9%F0%9F%87%AD;Building+web+apps+end+to+end" alt="Typing SVG" />
 
 <p>
   <a href="mailto:naphat.watt2002@gmail.com"><img src="https://img.shields.io/badge/Email-naphat.watt2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
